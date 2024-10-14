@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi!&fontSize=40&customColorList=4)
-Yoonha's%20Github
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi!Yoonha's%20Github&fontSize=40&customColorList=4)
+
 
 <h3 align="center"><b>🙌 About Me 🙌</b></h3>
 <br/>
