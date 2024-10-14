@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi!&fontSize=40&customColorList=4)
-<!-- Yoonha's%20Github -->
+Yoonha's%20Github
 
 <h3 align="center"><b>🙌 About Me 🙌</b></h3>
 <br/>
 <p align="center">
-<!-- - 한양대학교 경제금융학부 졸업(17.03 ~ 24.02)<br/> -->
+- 한양대학교 경제금융학부 졸업(17.03 ~ 24.02)<br/>
 - 삼성 청년 SW 아카데미(24.01 ~ )
 </p>
 
